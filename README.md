@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-rafay&label=Profile%20views&color=0e75b6&style=flat" alt="ch-rafay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-rafay" alt="ch-rafay" /></a> </p>
-
 - 🔭 I’m currently working on **Front-End Web Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
