@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Abdul Rafay Chaudhry
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-rafay&label=Profile%20views&color=0e75b6&style=flat" alt="ch-rafay" /> </p>
 
@@ -19,10 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-rafay&show_icons=true&locale=en&layout=compact" alt="ch-rafay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ch-rafay&show_icons=true&locale=en" alt="ch-rafay" /></p>
-
-Feel free to reach out via email: [your-email@example.com]
-
----
-
-_“The best way to predict the future is to invent it.” – Alan Kay_
-
