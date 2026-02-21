@@ -1,60 +1,49 @@
-<h1 align="center">Abdul Rafay Chaudhry</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Abdul Rafay Ather</h1>
+<p align="center">
+Software Engineer
+</p>
 
 <p align="center">
 Building production-ready web systems and scalable backend solutions.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafay-chaudhry-54b671301/" target="_blank">LinkedIn</a> •
-<a href="https://github.com/CH-RAFAY" target="_blank">GitHub</a> •
-<a href="mailto:chrafayather@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/rafay-chaudhry-54b671301/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="22" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/CH-RAFAY" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="22" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:chrafayather@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="22" />
+</a>
 </p>
 
 ---
 
-## About Me
+### About
 
 - Software Engineering graduate  
-- Focused on full-stack systems and scalable application design  
-- Strong foundation in OOP, Data Structures, and Software Architecture  
-- Currently exploring Applied Machine Learning  
+- Focused on full-stack systems & scalable architecture  
+- Strong foundation in OOP, DSA, and system design  
+- Exploring applied machine learning  
 
 ---
 
-## Featured Work
+### Featured Project
 
-### SoundTab – Audio to Guitar Tablature System
-End-to-end machine learning and digital signal processing system that converts raw guitar recordings into structured music notation and optimized tablature.
+**SoundTab – Audio to Guitar Tablature System**
 
-**Tech:** Python, FastAPI, React, MusicXML, ML Pipelines
+End-to-end ML + DSP system converting raw guitar recordings into structured notation and optimized tablature.
 
----
-
-## Tech Stack
-
-### Languages
-C • C++ • Python • Java • JavaScript • TypeScript
-
-### Frontend
-React • Tailwind CSS • HTML • CSS
-
-### Backend & Tools
-Node.js • FastAPI • Docker • Git • Linux
-
-### Databases
-MySQL • MongoDB
+**Stack:** Python · FastAPI · React · MusicXML · ML Pipelines
 
 ---
 
-## Currently
+### Core Technologies
 
-- Working on structured full-stack web systems  
-- Improving backend architecture and scalability skills  
-- Learning applied machine learning concepts  
-
----
-
-<p align="center">
-<a href="mailto:chrafayather@gmail.com">chrafayather@gmail.com</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,tailwind,nodejs,fastapi,docker,mysql,mongodb,git,linux" />
 </p>
