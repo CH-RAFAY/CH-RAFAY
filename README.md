@@ -11,7 +11,7 @@
 
 ### Introduction
 
-I am a Software Engineering graduate focused on building structured, production-ready systems with clarity and long-term <br> scalability in mind. My work combines practical full-stack development with disciplined system design and strong foundations <br> in object-oriented programming and data structures. I am particularly interested in backend architecture and applied machine learning systems.
+I am a Software Engineering graduate focused on building structured, production-ready systems with clarity and long-term <br> scalability in mind. My work combines practical full-stack development with disciplined system design and strong foundations <br> in object-oriented programming and data structures. I am particularly interested in backend architecture and applied machine- <br> learning systems.
 
 - Production-ready full-stack application development  
 - Backend system design and scalable architecture  
