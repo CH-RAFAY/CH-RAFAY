@@ -1,24 +1,17 @@
 <h1 align="center">Abdul Rafay Ather</h1>
+
 <p align="center">
-Software Engineer
+Software Engineer · Full-Stack Systems · Scalable Backend Architecture
 </p>
 
 <p align="center">
-Building production-ready web systems and scalable backend solutions.
+Building production-ready web systems with clarity, maintainability, and long-term scalability.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafay-chaudhry-54b671301/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="22" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/CH-RAFAY" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="22" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:chrafayather@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="22" />
-</a>
+<a href="https://www.linkedin.com/in/rafay-chaudhry-54b671301/">LinkedIn</a> · 
+<a href="https://github.com/CH-RAFAY">GitHub</a> · 
+<a href="mailto:chrafayather@gmail.com">Email</a>
 </p>
 
 ---
@@ -26,8 +19,8 @@ Building production-ready web systems and scalable backend solutions.
 ### About
 
 - Software Engineering graduate  
-- Focused on full-stack systems & scalable architecture  
-- Strong foundation in OOP, DSA, and system design  
+- Focused on full-stack systems & scalable application design  
+- Strong foundation in OOP, Data Structures, and system design  
 - Exploring applied machine learning  
 
 ---
@@ -36,9 +29,9 @@ Building production-ready web systems and scalable backend solutions.
 
 **SoundTab – Audio to Guitar Tablature System**
 
-End-to-end ML + DSP system converting raw guitar recordings into structured notation and optimized tablature.
+End-to-end ML + DSP system converting raw guitar recordings into structured music notation and optimized tablature.
 
-**Stack:** Python · FastAPI · React · MusicXML · ML Pipelines
+**Stack:** Python · FastAPI · React · MusicXML · ML Pipelines  
 
 ---
 
